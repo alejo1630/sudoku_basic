@@ -197,7 +197,7 @@ while sol != idk:
 					m0[coord1] = i # Assing the value to the coordinate
 					sol += 1
 					print("Input:",i)
-					print("Coordiante: ",(coord1[0]+1,coord1[1]+1))
+					print("Coordinate: ",(coord1[0]+1,coord1[1]+1))
 					show_grid(m0)
 					progress(sol,idk)
 					
